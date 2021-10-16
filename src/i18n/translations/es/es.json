@@ -1,0 +1,86 @@
+{
+  "common": {
+    "navbar": {
+      "campaigns": "Campañas",
+      "contacts": "Contactos",
+      "dashboard": "Tablero",
+      "greeting": "hola, esto es un ejemplo",
+      "search": "Buscar",
+      "properties": "Propiedades",
+      "team": "Equipo"
+    }
+  },
+  "campaignsPage": {
+    "item": "shdhshd"
+  },
+  "contactsPage": {
+    "item": "value"
+  },
+  "dashboardPage": {
+    "item": "value"
+  },
+  "propertyDetails": {
+    "top": {
+      "addCampaign": "Agregar a una campaña",
+      "bed": "Hab",
+      "bath": "Baños",
+      "days": "Dias",
+      "onMarket": "On Market",
+      "skipTrace": "Saltar rastro",
+      "saveProperty": "Guardar propiedad"
+    },
+    "button": {
+      "viewAll": "Ver las",
+      "photos": "fotos",
+      "rehabCalculator": "Calculadora de rehabilitación"
+    },
+    "tab": {
+      "opportunities": "Oportunidades",
+      "propertyDetails": "Detalles de la propiedas",
+      "propertyStatus": "Estado de la propiedad",
+      "mlsDetails": "Detalles MLS"
+    },
+    "propertySnapshot": "Instantánea de la propiedad",
+    "showData": "Mostrar informacion"
+  },
+  "profilePage": {
+    "item": "value"
+  },
+  "propertiesPage": {
+    "item": "value"
+  },
+  "searchPage": {
+    "filterListChild": {
+      "quickFilters": "Filtros rápidos",
+      "quickFiltersContent": "Filtros preestablecidos para buscar y elaborar estrategias rápidamente",
+      "ownerInformation&Occupancy": "Información y ocupación del propietario",
+      "ownerInformation&OccupancyContent": "Seleccione para ver información específica sobre el propietario y la ocupación de la propiedad",
+      "propertyCharacteristics": "Características de la propiedad",
+      "propertyCharacteristicsContent": "Filtre por la cantidad de camas, baños, tipos de propiedad, tamaño del edificio y otras características",
+      "mlsStatus": "Estado MLS",
+      "mlsStatusContent": "Búsqueda de palabras clave Detalles de MLS, fecha de listado o monto, y dentro o fuera del mercado",
+      "preForeclosure&BankOwned": "Antes de la ejecución hipotecaria y propiedad del banco",
+      "preForeclosure&BankOwnedContent": "Filtrar el estado, las fechas y los montos de la ejecución hipotecaria",
+      "lienBankruptcyDivorceStatus": "Estado de derecho de retención/bancarrota/divorcio",
+      "lienBankruptcyDivorceStatusContent": "Incluir o excluir información sobre embargos, bancarrota o divorcio",
+      "value&EquityInformation": "Información de valor y equidad",
+      "value&EquityInformationContent": "Incluir o excluir información sobre embargos, bancarrota o divorcio",
+      "mortgageInformation": "Información hipotecaria",
+      "mortgageInformationContent": "Busque por número de hipotecas abiertas, saldo restante y más"
+    },
+    "multiSelect": {
+      "anotherArea": "Ingresar otra area"
+    },
+    "button": {
+      "filters": "Filtros",
+      "searches": "Mis búsquedas",
+      "saveSearch": "Guardar búsqueda",
+      "saveProperties": "Guardar Propiedades",
+      "resetFilters": "Restablecer filtros",
+      "propertyResults": "Resultados de la propiedad"
+    }
+  },
+  "teamPage": {
+    "item": "value"
+  }
+}

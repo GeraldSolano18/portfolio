@@ -1,4 +1,5 @@
 import "./styles/scss/main.scss";
+
 function App() {
   return (
     <div id="bg-img">

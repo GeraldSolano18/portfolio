@@ -1,0 +1,86 @@
+{
+  "common": {
+    "navbar": {
+      "campaigns": "Campaigns",
+      "contacts": "Contacts",
+      "greeting": "hi, this in an example",
+      "dashboard": "Dashboard",
+      "properties": "Properties",
+      "search": "Search",
+      "team": "Team"
+    }
+  },
+  "campaignsPage": {
+    "item": "shdhshd"
+  },
+  "contactsPage": {
+    "item": "value"
+  },
+  "dashboardPage": {
+    "item": "value"
+  },
+  "propertyDetails": {
+    "button": {
+      "viewAll": "View all",
+      "photos": "Photos",
+      "rehabCalculator": "Rehab Calculator"
+    },
+    "propertySnapshot": "Property Snapshot",
+    "showData": "Show Data",
+    "top": {
+      "addCampaign": "Add to a Campaign",
+      "bed": "Bed",
+      "bath": "Bath",
+      "days": "Days",
+      "onMarket": "On Market",
+      "skipTrace": "Skip Trace",
+      "saveProperty": "Save Property"
+    },
+    "tab": {
+      "mlsDetails": "MLS Details",
+      "opportunities": "Opportunities",
+      "propertyDetails": "Property Details",
+      "propertyStatus": "Property Status"
+    }
+  },
+  "profilePage": {
+    "item": "value"
+  },
+  "propertiesPage": {
+    "item": "value"
+  },
+  "searchPage": {
+    "filterListChild": {
+      "quickFilters": "QuickFilters",
+      "quickFiltersContent": "Preset filters to quickly search & strategize",
+      "ownerInformation&Occupancy": "Owner Information & Occupancy",
+      "ownerInformation&OccupancyContent": "Select to view specific information about owner and property occupancy",
+      "propertyCharacteristics": "Property Characteristics",
+      "propertyCharacteristicsContent": "Filter by the number of beds, baths, property types, building size, and other characteristics",
+      "mlsStatus": "MLS Status",
+      "mlsStatusContent": "Keyword search MLS Details, Listing Date or Amount, and On or Off Market",
+      "mortgageInformation": "Mortgage Information",
+      "mortgageInformationContent": "Search via number of open mortgages, remaining balance, and more",
+      "preForeclosure&BankOwned": "Pre-Foreclosure & Bank Owned",
+      "preForeclosure&BankOwnedContent": "Filter Foreclosure Status, Dates, and Amounts",
+      "lienBankruptcyDivorceStatus": "Lien/Bankruptcy/Divorce Status",
+      "lienBankruptcyDivorceStatusContent": "Include or Exclude Liens, Bankruptcy, or Divorce Status Information",
+      "value&EquityInformation": "Value & Equity Information",
+      "value&EquityInformationContent": "Include or Exclude Liens, Bankruptcy, or Divorce Status Information"
+    },
+    "multiSelect": {
+      "anotherArea": "Enter another area"
+    },
+    "button": {
+      "filters": "Filters",
+      "searches": "My Searches",
+      "saveSearch": "Save Search",
+      "saveProperties": "Save Properties",
+      "resetFilters": "Reset Filters",
+      "propertyResults": "Property Results"
+    }
+  },
+  "teamPage": {
+    "item": "value"
+  }
+}
