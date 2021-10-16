@@ -45,9 +45,7 @@ function App() {
         <h1 className="lg-heading">
           Ing. Gerald <span className="text-secondary">Solano</span>
         </h1>
-        <h2 className="sm-heading">
-          Web Developer, Programer, Designer & Entrepreneur
-        </h2>
+        <h2 className="sm-heading">Web Developer, Programer & Entrepreneur</h2>
         <div className="icons">
           <a href="#!">
             <i className="fab fa-twitter fa-2x"></i>
