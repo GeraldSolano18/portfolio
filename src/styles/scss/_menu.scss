@@ -38,7 +38,7 @@
   position: fixed;
   top: 0;
   width: 100%;
-  
+
   visibility: hidden;
 
   &.show {
@@ -59,7 +59,7 @@
     margin: 0;
     padding: 0;
     background: rgba(darken($primaryColor, 5), 0.9);
-   
+
     list-style: none;
     transform: translate3d(0, -100%, 0);
     @include easeOut;
@@ -83,8 +83,7 @@
     .portrait {
       width: 250px;
       height: 250px;
-  //    background: url("/dist/img/descarga.png");
-
+      background: url("../../resources/img/descarga.png");
       border-radius: 50%;
       border: solid 3px $secondaryColor;
     }
@@ -92,18 +91,16 @@
   .nav-item {
     transform: translate3d(600px, 0, 0);
     @include easeOut;
-    &.show{
-    transform: translate3d(0,0,0);
+    &.show {
+      transform: translate3d(0, 0, 0);
     }
 
-    &.current > a{
+    &.current > a {
       color: $secondaryColor;
-
     }
   }
 
-
-  .nav-link{
+  .nav-link {
     display: inline-block;
     position: relative;
     font-size: 30px;
@@ -114,16 +111,14 @@
     text-decoration: none;
     @include easeOut;
 
-    &:hover{
+    &:hover {
       color: $secondaryColor;
     }
   }
 }
 
-
 @for $x from 1 through 4 {
-  .nav-item:nth-child(#{$x}){
+  .nav-item:nth-child(#{$x}) {
     transition-delay: $x * 0.1s;
   }
-
 }
