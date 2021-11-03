@@ -2,6 +2,8 @@
 import React from "react";
 const HomePage = React.lazy(() => import("pages/HomePage"));
 const ContactPage = React.lazy(() => import("pages/ContactPage"));
+const AboutPage = React.lazy(() => import("pages/AboutPage"));
+
 export default [
   {
     id: 1,
@@ -14,5 +16,11 @@ export default [
     path: "/contact",
     exact: true,
     page: ContactPage,
+  },
+  {
+    id: 3,
+    path: "/aboutMe",
+    exact: true,
+    page: AboutPage,
   },
 ];

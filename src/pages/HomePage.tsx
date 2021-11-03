@@ -30,7 +30,7 @@ const HomePage: React.FC = () => {
   ];
 
   return (
-    <div id="bg-img">
+    <div className="container-main-app" id="bg-img">
       <section>
         <div
           onClick={() => clickAction()}
@@ -79,6 +79,7 @@ const HomePage: React.FC = () => {
           </NavLink>
         </div>
       </main>
+      <footer id="main-footer">Copyright &copy; 2020</footer>
     </div>
   );
 };
